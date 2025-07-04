@@ -11,10 +11,11 @@ TEL;TYPE=HOME:
 TEL;TYPE=MSG:
 EMAIL;TYPE=WORK:gabriel.rocha@ieee.org
 URL;TYPE=Digital Business Card:toffanetto.github.io
-URL:
+URL:https://linktr.ee/toffanetto
+URL;TYPE=Website:https://linktr.ee/toffanetto
 URL;TYPE=GitHub:https://github.com/toffanetto
 URL;TYPE=LinkedIn:https://linkedin.com/in/gabrieltoffanetto
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:Autonomous Vehicles | Autoware | V2X | Robotics | Machine Learning
-UID:EnBizCard-100491346
+UID:EnBizCard-100253987
 END:VCARD
