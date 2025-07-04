@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Toffanetto França da Rocha;Gabriel;;;
+FN:Gabriel Toffanetto França da Rocha
+ORG:Laboratory of Autonomous Mobility (LMA)
+ADR;TYPE=WORK:University of Campinas - Unicamp/FEM
+TITLE:Master's candidate in Mechatronics
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:gabriel.rocha@ieee.org
+URL;TYPE=Digital Business Card:
+URL:
+URL;TYPE=GitHub:https://github.com/toffanetto
+URL;TYPE=LinkedIn:https://linkedin.com/in/gabrieltoffanetto
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Autonomous Vehicles | Autoware | V2X | Robotics | Machine Learning
+UID:EnBizCard-100098883
+END:VCARD
